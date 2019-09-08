@@ -1,8 +1,3 @@
-/*
-Assignment# 2 (In Class 02)
-Name: Renju Hanna Robin, Saloni Gupta
-Group 28
- */
 
 package com.example.area_calculator;
 
