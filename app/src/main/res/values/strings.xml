@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Area_Calculator</string>
+    <string name="length1">Length 1 :</string>
+    <string name="length2">Length 2 :</string>
+    <string name="selectshape">Select a shape</string>
+    <string name="calculatebutton">CALCULATE</string>
+    <string name="result">RESULT</string>
+    <string name="showresult" />
+    <string name="clearbutton">CLEAR</string>
+    <string name="tv_result" />
+</resources>
